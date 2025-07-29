@@ -13,7 +13,7 @@ public class Employee
         salary = sal;
     }
 
-
+    //high salary of emp
     public double getsalary()
     {
         return salary;
