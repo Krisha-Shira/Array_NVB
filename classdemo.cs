@@ -26,7 +26,7 @@ public class Employee
         Console.WriteLine("Emp Salary: " + salary);
         Console.WriteLine();
     }
-
+    //internal class
     internal class ClassDemo1
     {
         public static void Main(string[] args)
