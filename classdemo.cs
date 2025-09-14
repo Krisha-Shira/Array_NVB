@@ -23,7 +23,7 @@ public class Employee
     {
         Console.WriteLine("Emp ID: " + empId);//display emp id
         Console.WriteLine("Emp Name: " + eName);
-        Console.WriteLine("Emp Salary: " + salary);
+        Console.WriteLine("Emp Salary: " + salary);//display emp salary
         Console.WriteLine();
     }
     //internal class
