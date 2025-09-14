@@ -21,7 +21,7 @@ public class Employee
 
     public void showData()
     {
-        Console.WriteLine("Emp ID: " + empId);
+        Console.WriteLine("Emp ID: " + empId);//display emp id
         Console.WriteLine("Emp Name: " + eName);
         Console.WriteLine("Emp Salary: " + salary);
         Console.WriteLine();
