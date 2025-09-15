@@ -23,7 +23,7 @@ namespace patten_problem
         public static void Main(String[] args)
         {
             MethodOverloading s1 = new MethodOverloading();
-            s1.Sum(14, 25);
+            s1.Sum(14, 25);//new
         }
     }
 
